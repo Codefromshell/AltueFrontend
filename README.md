@@ -1,10 +1,11 @@
-# AltueFrontend
+# Altue Frontend
 Personal website frontend partial.
 
-+ Bireysel websitemin (https://Altue.xyz) frontend alanıdır.
++ This is the frontend partial of my website.
 
-+ HTML ve CSS öğrenmeye yeni başlayan için az da olsa açıklama alanı oluşturdum.
++ I want ta puslish it becuse i want to show to things. First, i want to show we can use simple designs and the second is be helper and role model to news.
 
-+ Frontend ile backend arasında olan etkileşimi görebileceğiniz belirli noktalarda açıklama satırları oluşturdum.
++ I made some description lines at the project. I know this isnt a backend or big project but im so nerveus on description lines. Becuse as you can see on complicated aplications description line is a safer is helper.
++ I want to show the importent point of description lines on projects.
 
-+ Eğer aklınıza takılan sormak istediğiniz şeyler olursa instagram üzerinden sorabilirsiniz (ig: mertykshazırlanıyor).
++ If this files be useful for you take it, use it and make yourself better.
